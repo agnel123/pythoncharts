@@ -1,0 +1,29 @@
+[{
+    "series": "Series 1",
+    "value": 225000,
+    "max_value":1275000
+},{
+    "series": "Series 2",
+    "value": 110,
+    "max_value":100
+},{
+    "series": "Series 3",
+    "value": 3,
+    "max_value":10
+},{
+    "series": "Series 4",
+    "value": 51,
+    "max_value":100
+},{
+    "series": "Series 5",
+    "value": 79,
+    "max_value":100
+},{
+    "series": "Series 6",
+    "value": 6,
+    "max_value":99
+},{
+    "series": "Series 7",
+    "value": 100,
+    "max_value":100
+}]
